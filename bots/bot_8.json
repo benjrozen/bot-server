@@ -1,0 +1,7 @@
+{
+    "id": "66",
+    "provider": "TARS",
+    "name": "ACBOT_1",
+    "display_name": "Bot #1",
+    "credentials": "Hostname: localhost; Port: 5000"
+}
